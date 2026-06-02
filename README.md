@@ -12,6 +12,7 @@ Các quyết định sau khi nhận hàng trả về: trả lại người bán,
 
 Xây dựng một công cụ ra quyết định để chọn cách xử lý hàng trả về sao cho giảm tổng chi phí.
 
+
 Kiểm tra các kịch bản khác nhau để xem phương án nào tiết kiệm nhất.
 
 Câu hỏi nghiên cứu chính của bài là: Làm thế nào để cải thiện quy trình hoàn trả sản phẩm nhằm giảm chi phí cho nhà bán lẻ trực tuyến bằng công cụ ra quyết định quản lý hàng hoàn trả?
