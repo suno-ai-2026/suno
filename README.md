@@ -10,6 +10,7 @@ Quy trình hiện tại Lazada đang xử lý hàng hoàn trả như thế nào.
 Những điểm gây tốn chi phí trong quy trình hoàn trả.
 Các quyết định sau khi nhận hàng trả về: trả lại người bán, hủy/scrap, nhập kho bán lại, hoặc từ chối hoàn trả và gửi lại khách.
 
+
 Xây dựng một công cụ ra quyết định để chọn cách xử lý hàng trả về sao cho giảm tổng chi phí.
 
 
