@@ -2,6 +2,7 @@
 
 1. Bài này phân tích gì?
 
+
 Bài nghiên cứu phân tích chi phí và quy trình xử lý hàng hoàn trả của Lazada Singapore. Vấn đề chính là hàng hoàn trả trong e-commerce tạo ra chi phí lớn, gồm chi phí vận chuyển ngược, kiểm tra chất lượng, hoàn tiền, xử lý kho, trả hàng cho seller, thanh lý hoặc hủy hàng. Theo bài, chi phí trả hàng có thể chiếm khoảng 10–15% doanh thu, nên đây là khoản rất đáng tối ưu.
 
 Nội dung trọng tâm là:
