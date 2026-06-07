@@ -1,4 +1,4 @@
-# sunoBài này phân tích quản lý hàng hoàn trả trong thương mại điện tử, cụ thể là cách tối ưu quy trình xử lý hàng trả về để giảm chi phí cho Lazada. Tên bài là “Cheaper and Better: Optimizing E-commerce Product Returns Management”, nghĩa là làm sao xử lý hàng hoàn trả rẻ hơn nhưng vẫn tốt hơn.
+oBài này phân tích quản lý hàng hoàn trả trong thương mại điện tử, cụ thể là cách tối ưu quy trình xử lý hàng trả về để giảm chi phí cho Lazada. Tên bài là “Cheaper and Better: Optimizing E-commerce Product Returns Management”, nghĩa là làm sao xử lý hàng hoàn trả rẻ hơn nhưng vẫn tốt hơn.
 
 1. Bài này phân tích gì?
 
