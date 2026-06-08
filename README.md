@@ -2,3 +2,4 @@ Browne Jacobson: the gold rally is outpacing vault insurance capacity. Operators
 
 Physical gold keeps getting slower and more expensive to hold.
 
+
