@@ -9,3 +9,4 @@ Physical gold keeps getting slower and more expensive to hold.
 
 
 
+
