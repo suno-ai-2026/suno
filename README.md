@@ -17,7 +17,8 @@ y insured.Browne Jacobson: the gold rally is outpacing vault insurance capacity.
 
 
 Physical gold keeps getting slower and more expensive to hold.
-Browne Jacobson: the gold rally is outpacing vault insurance capacity. Operators are now shuffling bullion between sites just to stay insured.Browne Jacobson: the gold rally is outpacing vault insurance capacity. Operators are now shuffling bullion between sites just to stay insured.
+Browne Jacobson: the gold rally is outpacing vault insurance capacity. Operators are now shuffling bullion between sites just to stay insured.Bro
+wne Jacobson: the gold rally is outpacing vault insurance capacity. Operators are now shuffling bullion between sites just to stay insured.
 
 Physical gold keeps getting slower and more expensive to hold.
 Browne Jacobson: the gold rally is outpacing vault insurance capacity. Operators are now shuffling bullion between sites just to stay insured.
